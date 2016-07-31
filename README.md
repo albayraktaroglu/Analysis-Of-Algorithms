@@ -7,5 +7,5 @@ Includes different kinds of algorithms ( Search, Sort, etc)
 	
 	Sort Algorithm Name                  Best Case                  Worst Case                  Language 
 	- Selection Sort                       O(n^2)                     O(n^2)                        Java
-	- Insertion Sort 		       O(n)		 	  O(n) (O(1) swaps each turn)	Java
+	- Selection Sort                       O(n)                       O(n^2)                        Java
 	- 
