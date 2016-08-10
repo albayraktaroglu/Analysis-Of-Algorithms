@@ -9,3 +9,4 @@ Includes different kinds of algorithms ( Search, Sort, etc)
 	- Selection Sort                       O(n^2)                     O(n^2)                        Java
 	- Insertion Sort                       O(n)                       O(n^2)                        Java
 	- Bubble Sort                          O(n)                       O(n^2)                        Java
+	- Counting Sort                        O(n)                       O(n)                          Java
