@@ -10,4 +10,4 @@ Includes different kinds of algorithms ( Search, Sort, etc)
 	- Insertion Sort                       O(n)                       O(n^2)                        Java
 	- Bubble Sort                          O(n)                       O(n^2)                        Java
 	- Counting Sort                        O(n)                       O(n)                          Java
-	- Radix Sort                           O(n)                       O(n)                          Java
+	- Bucket Sort                           O(n+k)                     O(n^2)                       Java ( code is coming soon )
