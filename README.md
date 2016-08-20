@@ -11,3 +11,4 @@ Includes different kinds of algorithms ( Search, Sort, etc)
 	- Bubble Sort                          O(n)                       O(n^2)                        Java
 	- Counting Sort                        O(n+k)                     O(n+k)                        Java
 	- Bucket Sort                          O(n+k)                     O(n^2)                        Java 
+	- Quick Sort                           O(nlog(n))                 O(n^2)                        Java 
