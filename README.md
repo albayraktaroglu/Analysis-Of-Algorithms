@@ -13,3 +13,6 @@ Includes different kinds of algorithms ( Search, Sort, etc)
 	- Bucket Sort                          O(n+k)                     O(n^2)                        Java 
 	- Quick Sort                           O(nlog(n))                 O(n^2)                        Java 
 	- Merge Sort                           O(nlog(n))                 O(nlog(n))                    JavaScript 
+	- 
+	
+![](https://raw.githubusercontent.com/albayraktaroglu/Analysis-Of-Algorithms/master/Merge%20Sort/result/Merge%20Sort.PNG)
