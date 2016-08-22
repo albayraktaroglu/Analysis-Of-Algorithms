@@ -12,3 +12,4 @@ Includes different kinds of algorithms ( Search, Sort, etc)
 	- Counting Sort                        O(n+k)                     O(n+k)                        Java
 	- Bucket Sort                          O(n+k)                     O(n^2)                        Java 
 	- Quick Sort                           O(nlog(n))                 O(n^2)                        Java 
+	- Merge Sort                           O(nlog(n))                 O(nlog(n))                    JavaScript 
