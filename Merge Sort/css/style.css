@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+}
+
+body h1{
+    text-align: center;
+}
+
+div{
+    border-bottom-style: groove;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+p{
+    background-color: azure;
+
+    width:200px;
+    height: 20px;
+}
+
+.container{
+    background-color:darkcyan;
+} 
+
+.input{
+    background-color: darkturquoise;
+    text-align: center;
+    padding: 10px;
+}
+
+.result{
+    background-color: darkturquoise;
+    text-align: center;
+}
+
+button{
+    display: inline-block;
+}
+
+#inputp{
+    display: inline-block;
+}
+
